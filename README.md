@@ -11,7 +11,7 @@ The data is from my Excel course, which provides a foundation in analyzing data 
 
 My final Excel dashboard is available here:
 
-[📊 Download Excel Dashboard](https://github.com/ziadhafez62/Salary_Dashboard/raw/refs/heads/main/1_Salary_Dashboard.xlsx)
+[📊 Download Excel Dashboard](https://raw.githubusercontent.com/ziadhafez62/Salary_Dashboard/refs/heads/main/1_Salary_Dashboard.xlsx)
 
 ## Excel Skills Used
 
