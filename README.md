@@ -13,7 +13,6 @@ My final Excel dashboard is available here:
 
 [📊 Download Excel Dashboard](https://github.com/ziadhafez62/Salary_Dashboard/raw/refs/heads/main/1_Salary_Dashboard.xlsx)
 
-
 ## Excel Skills Used
 
 The following Excel skills were utilized for analysis:
